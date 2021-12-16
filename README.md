@@ -1,4 +1,4 @@
-# Tesla-Coil-Development
+# Tesla Coil Development
 
 Progress on my construction of a Dual Resonant Solid State Tesla Coil (DRSSTC).
 
